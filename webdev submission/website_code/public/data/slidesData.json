@@ -1,0 +1,19 @@
+{
+    "slides": [
+        {
+            "src": "/assignment-package/website-images-assets/Cantor_atrium_3.jpg",
+            "alt": "Image 1 for slides",
+            "caption": "Finest Facilities"
+        },
+        {
+            "src": "/assignment-package/website-images-assets/ACES-036-Computing-Playstation-Lab-2.jpg",
+            "alt": "Image 2 for slides",
+            "caption":"Modern Labs"
+        },
+        {
+            "src": "/assignment-package/website-images-assets/ACES-032-Computing-Playstation-Lab.jpg",
+            "alt": "Image 3 for slides",
+            "caption":"Innovative Classrooms"
+        }
+    ]
+}
